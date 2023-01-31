@@ -26,10 +26,16 @@ List of ItemData:
 
 - All -- Unlock all Recipes & Get All Items (Must have bigger inventory)
 ==================================================================================================================
+
+
 getgenv().TypeData = "All" -- Change this to what item type you want
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IEnemyFiles/Dragon-Blade/main/UnlockAll", true))()
+
+
 ==================================================================================================================
+
+
 use this if you want to get specific item.
 
 how to use:
